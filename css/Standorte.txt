@@ -1,0 +1,20 @@
+1. Tischtennis (P) -> 6
+2. Stein (R) -> 6
+3. Gitter (P) -> 9
+Seite öffnet sich
+Ascii tabelle -> binär code in hex in Dez
+
+4. Haupteingang (T) -> 9
+5. Zaun (T) -> 7
+6. Pausenraum (R) -> In Term einsetzen -> in binär umwandeln -> suchen
+Ziel: Schließfach 0111
+
+(x+2)/(1000x)XWurzel9 = 7
+x=6/6997
+
+Lösungen (jeweils eine Zahl) an Stationen in Muster eintagen -> wenn richtig Hinweis zur nächten Location
+
+https://www.amazon.de/gp/product/B000HWY6QK/ref=ox_sc_act_title_2?smid=A1VUDA1W4Z276P&psc=1
+https://www.amazon.de/gp/product/B01N1KHVCI/ref=ox_sc_act_title_1?smid=A1BRLTYVHCTXZH&psc=1
+
+
